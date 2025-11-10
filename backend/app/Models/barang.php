@@ -14,6 +14,6 @@ class Barang extends Model
         'kategori',
         'stok',
         'satuan',
-        'harga',
+        'harga'
     ];
 }
